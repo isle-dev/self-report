@@ -1,0 +1,53 @@
+Domain,Facet,Low Marker,High Marker
+EXT,E1 - Friendliness,unfriendly,friendly
+EXT,E2 - Gregariousness,introverted,extraverted
+EXT,E2 - Gregariousness,silent,talkative
+EXT,E3 - Assertiveness,timid,bold
+EXT,E3 - Assertiveness,unassertive,assertive
+EXT,E4 - Activity Level,inactive,active
+EXT,E5 - Excitement-Seeking,unenergetic,energetic
+EXT,E5 - Excitement-Seeking,unadventurous,adventurous and daring
+EXT,E6 - Cheerfulness,gloomy,cheerful
+AGR,A1 - Trust,distrustful,trustful
+AGR,A2 - Morality,immoral,moral
+AGR,A2 - Morality,dishonest,honest
+AGR,A3 - Altruism,unkind,kind
+AGR,A3 - Altruism,stingy,generous
+AGR,A3 - Altruism,unaltruistic,altruistic
+AGR,A4 - Cooperation,uncooperative,cooperative
+AGR,A5 - Modesty,self-important,humble
+AGR,A6 - Sympathy,unsympathetic,sympathetic
+AGR,AGR,selfish,unselfish
+AGR,AGR,disagreeable,agreeable
+CON,C1 - Self-Efficacy,unsure,self-efficacious
+CON,C2 - Orderliness,messy,orderly
+CON,C3 - Dutifulness,irresponsible,responsible
+CON,C4 - Achievement-Striving,lazy,hardworking
+CON,C5 - Self-Discipline,undisciplined,self-disciplined
+CON,C6 - Cautiousness,impractical,practical
+CON,C6 - Cautiousness,extravagant,thrifty
+CON,CON,disorganized,organized
+CON,CON,negligent,conscientious
+CON,CON,careless,thorough
+NEU,N1 - Anxiety,relaxed,tense
+NEU,N1 - Anxiety,at ease,nervous
+NEU,N1 - Anxiety,easygoing,anxious
+NEU,N2 - Anger,calm,angry
+NEU,N2 - Anger,patient,irritable
+NEU,N3 - Depression,happy,depressed
+NEU,N4 - Self-Consciousness,unselfconscious,self-conscious
+NEU,N5 - Immoderation,level-headed,impulsive
+NEU,N6 - Vulnerability,contented,discontented
+NEU,N6 - Vulnerability,emotionally stable,emotionally unstable
+OPE,O1 - Imagination,unimaginative,imaginative
+OPE,O2 - Artistic Interests,uncreative,creative
+OPE,O2 - Artistic Interests,artistically unappreciative,artistically appreciative
+OPE,O2 - Artistic Interests,unaesthetic,aesthetic
+OPE,O3 - Emotionality,unreflective,reflective
+OPE,O3 - Emotionality,emotionally closed,emotionally aware
+OPE,O4 - Adventurousness,uninquisitive,curious
+OPE,O4 - Adventurousness,predictable,spontaneous
+OPE,O5 - Intellect,unintelligent,intelligent
+OPE,O5 - Intellect,unanalytical,analytical
+OPE,O5 - Intellect,unsophisticated,sophisticated
+OPE,O6 - Liberalism,socially conservative,socially progressive

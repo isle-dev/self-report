@@ -1,0 +1,201 @@
+personal_profile,domain,level
+"extremely unadventurous, extremely inactive, extremely gloomy, extremely introverted and extremely unassertive
+",EXT,Low
+"extremely adventurous and daring, extremely active, extremely cheerful, extremely extraverted and extremely assertive
+",EXT,High
+"extremely unfriendly, extremely gloomy, extremely timid, extremely unenergetic and extremely introverted
+",EXT,Low
+"extremely friendly, extremely cheerful, extremely bold, extremely energetic and extremely extraverted
+",EXT,High
+"extremely introverted, extremely inactive, extremely gloomy, extremely timid and extremely unassertive
+",EXT,Low
+"extremely extraverted, extremely active, extremely cheerful, extremely bold and extremely assertive
+",EXT,High
+"extremely gloomy, extremely introverted, extremely unenergetic, extremely timid and extremely inactive
+",EXT,Low
+"extremely cheerful, extremely extraverted, extremely energetic, extremely bold and extremely active
+",EXT,High
+"extremely gloomy, extremely inactive, extremely silent, extremely unassertive and extremely unenergetic
+",EXT,Low
+"extremely cheerful, extremely active, extremely talkative, extremely assertive and extremely energetic
+",EXT,High
+"extremely unkind, extremely dishonest, extremely distrustful, extremely selfish and extremely immoral
+",AGR,Low
+"extremely kind, extremely honest, extremely trustful, extremely unselfish and extremely moral
+",AGR,High
+"extremely uncooperative, extremely unsympathetic, extremely distrustful, extremely selfish and extremely self-important
+",AGR,Low
+"extremely cooperative, extremely sympathetic, extremely trustful, extremely unselfish and extremely humble
+",AGR,High
+"extremely dishonest, extremely stingy, extremely unsympathetic, extremely immoral and extremely disagreeable
+",AGR,Low
+"extremely honest, extremely generous, extremely sympathetic, extremely moral and extremely agreeable
+",AGR,High
+"extremely selfish, extremely dishonest, extremely stingy, extremely immoral and extremely unkind
+",AGR,Low
+"extremely unselfish, extremely honest, extremely generous, extremely moral and extremely kind
+",AGR,High
+"extremely immoral, extremely stingy, extremely dishonest, extremely self-important and extremely uncooperative
+",AGR,Low
+"extremely moral, extremely generous, extremely honest, extremely humble and extremely cooperative
+",AGR,High
+"extremely messy, extremely undisciplined, extremely negligent, extremely irresponsible and extremely unsure
+",CON,Low
+"extremely orderly, extremely self-disciplined, extremely conscientious, extremely responsible and extremely self-efficacious
+",CON,High
+"extremely undisciplined, extremely careless, extremely extravagant, extremely impractical and extremely unsure
+",CON,Low
+"extremely self-disciplined, extremely thorough, extremely thrifty, extremely practical and extremely self-efficacious
+",CON,High
+"extremely careless, extremely unsure, extremely negligent, extremely impractical and extremely lazy
+",CON,Low
+"extremely thorough, extremely self-efficacious, extremely conscientious, extremely practical and extremely hardworking
+",CON,High
+"extremely impractical, extremely lazy, extremely messy, extremely irresponsible and extremely negligent
+",CON,Low
+"extremely practical, extremely hardworking, extremely orderly, extremely responsible and extremely conscientious
+",CON,High
+"extremely disorganized, extremely careless, extremely irresponsible, extremely unsure and extremely undisciplined
+",CON,Low
+"extremely organized, extremely thorough, extremely responsible, extremely self-efficacious and extremely self-disciplined
+",CON,High
+"extremely patient, extremely level-headed, extremely unselfconscious, extremely emotionally stable and extremely relaxed
+",NEU,Low
+"extremely irritable, extremely impulsive, extremely self-conscious, extremely emotionally unstable and extremely tense
+",NEU,High
+"extremely patient, extremely at ease, extremely relaxed, extremely contented and extremely level-headed
+",NEU,Low
+"extremely irritable, extremely nervous, extremely tense, extremely discontented and extremely impulsive
+",NEU,High
+"extremely unselfconscious, extremely relaxed, extremely contented, extremely patient and extremely level-headed
+",NEU,Low
+"extremely self-conscious, extremely tense, extremely discontented, extremely irritable and extremely impulsive
+",NEU,High
+"extremely contented, extremely happy, extremely patient, extremely calm and extremely relaxed
+",NEU,Low
+"extremely discontented, extremely depressed, extremely irritable, extremely angry and extremely tense
+",NEU,High
+"extremely relaxed, extremely contented, extremely level-headed, extremely at ease and extremely emotionally stable
+",NEU,Low
+"extremely tense, extremely discontented, extremely impulsive, extremely nervous and extremely emotionally unstable
+",NEU,High
+"extremely unaesthetic, extremely unintelligent, extremely unsophisticated, extremely unreflective and extremely socially conservative
+",OPE,Low
+"extremely aesthetic, extremely intelligent, extremely sophisticated, extremely reflective and extremely socially progressive
+",OPE,High
+"extremely emotionally closed, extremely socially conservative, extremely uninquisitive, extremely unsophisticated and extremely unimaginative
+",OPE,Low
+"extremely emotionally aware, extremely socially progressive, extremely curious, extremely sophisticated and extremely imaginative
+",OPE,High
+"extremely unaesthetic, extremely predictable, extremely emotionally closed, extremely socially conservative and extremely uncreative
+",OPE,Low
+"extremely aesthetic, extremely spontaneous, extremely emotionally aware, extremely socially progressive and extremely creative
+",OPE,High
+"extremely socially conservative, extremely emotionally closed, extremely artistically unappreciative, extremely unaesthetic and extremely unimaginative
+",OPE,Low
+"extremely socially progressive, extremely emotionally aware, extremely artistically appreciative, extremely aesthetic and extremely imaginative
+",OPE,High
+"extremely predictable, extremely uncreative, extremely unimaginative, extremely unreflective and extremely unaesthetic
+",OPE,Low
+"extremely spontaneous, extremely creative, extremely imaginative, extremely reflective and extremely aesthetic
+",OPE,High
+"extremely unfriendly, extremely unenergetic, extremely gloomy, extremely introverted and extremely silent
+",EXT,Low
+"extremely friendly, extremely energetic, extremely cheerful, extremely extraverted and extremely talkative
+",EXT,High
+"extremely introverted, extremely timid, extremely unassertive, extremely unenergetic and extremely unfriendly
+",EXT,Low
+"extremely extraverted, extremely bold, extremely assertive, extremely energetic and extremely friendly
+",EXT,High
+"extremely inactive, extremely unadventurous, extremely silent, extremely timid and extremely unfriendly
+",EXT,Low
+"extremely active, extremely adventurous and daring, extremely talkative, extremely bold and extremely friendly
+",EXT,High
+"extremely introverted, extremely unassertive, extremely unfriendly, extremely inactive and extremely timid
+",EXT,Low
+"extremely extraverted, extremely assertive, extremely friendly, extremely active and extremely bold
+",EXT,High
+"extremely unenergetic, extremely unadventurous, extremely unfriendly, extremely introverted and extremely unassertive
+",EXT,Low
+"extremely energetic, extremely adventurous and daring, extremely friendly, extremely extraverted and extremely assertive
+",EXT,High
+"extremely immoral, extremely unsympathetic, extremely unkind, extremely unaltruistic and extremely disagreeable
+",AGR,Low
+"extremely moral, extremely sympathetic, extremely kind, extremely altruistic and extremely agreeable
+",AGR,High
+"extremely unkind, extremely immoral, extremely uncooperative, extremely stingy and extremely dishonest
+",AGR,Low
+"extremely kind, extremely moral, extremely cooperative, extremely generous and extremely honest
+",AGR,High
+"extremely distrustful, extremely immoral, extremely self-important, extremely unkind and extremely unaltruistic
+",AGR,Low
+"extremely trustful, extremely moral, extremely humble, extremely kind and extremely altruistic
+",AGR,High
+"extremely immoral, extremely uncooperative, extremely stingy, extremely disagreeable and extremely dishonest
+",AGR,Low
+"extremely moral, extremely cooperative, extremely generous, extremely agreeable and extremely honest
+",AGR,High
+"extremely stingy, extremely dishonest, extremely unkind, extremely self-important and extremely selfish
+",AGR,Low
+"extremely generous, extremely honest, extremely kind, extremely humble and extremely unselfish
+",AGR,High
+"extremely lazy, extremely disorganized, extremely impractical, extremely irresponsible and extremely unsure
+",CON,Low
+"extremely hardworking, extremely organized, extremely practical, extremely responsible and extremely self-efficacious
+",CON,High
+"extremely messy, extremely unsure, extremely careless, extremely negligent and extremely lazy
+",CON,Low
+"extremely orderly, extremely self-efficacious, extremely thorough, extremely conscientious and extremely hardworking
+",CON,High
+"extremely careless, extremely lazy, extremely unsure, extremely negligent and extremely disorganized
+",CON,Low
+"extremely thorough, extremely hardworking, extremely self-efficacious, extremely conscientious and extremely organized
+",CON,High
+"extremely disorganized, extremely extravagant, extremely careless, extremely unsure and extremely impractical
+",CON,Low
+"extremely organized, extremely thrifty, extremely thorough, extremely self-efficacious and extremely practical
+",CON,High
+"extremely unsure, extremely careless, extremely lazy, extremely irresponsible and extremely extravagant
+",CON,Low
+"extremely self-efficacious, extremely thorough, extremely hardworking, extremely responsible and extremely thrifty
+",CON,High
+"extremely at ease, extremely happy, extremely unselfconscious, extremely contented and extremely emotionally stable
+",NEU,Low
+"extremely nervous, extremely depressed, extremely self-conscious, extremely discontented and extremely emotionally unstable
+",NEU,High
+"extremely emotionally stable, extremely at ease, extremely level-headed, extremely calm and extremely unselfconscious
+",NEU,Low
+"extremely emotionally unstable, extremely nervous, extremely impulsive, extremely angry and extremely self-conscious
+",NEU,High
+"extremely unselfconscious, extremely happy, extremely relaxed, extremely easygoing and extremely contented
+",NEU,Low
+"extremely self-conscious, extremely depressed, extremely tense, extremely anxious and extremely discontented
+",NEU,High
+"extremely contented, extremely relaxed, extremely at ease, extremely emotionally stable and extremely level-headed
+",NEU,Low
+"extremely discontented, extremely tense, extremely nervous, extremely emotionally unstable and extremely impulsive
+",NEU,High
+"extremely emotionally stable, extremely relaxed, extremely at ease, extremely contented and extremely patient
+",NEU,Low
+"extremely emotionally unstable, extremely tense, extremely nervous, extremely discontented and extremely irritable
+",NEU,High
+"extremely uncreative, extremely socially conservative, extremely unaesthetic, extremely unanalytical and extremely unimaginative
+",OPE,Low
+"extremely creative, extremely socially progressive, extremely aesthetic, extremely analytical and extremely imaginative
+",OPE,High
+"extremely uninquisitive, extremely unanalytical, extremely unintelligent, extremely unimaginative and extremely unaesthetic
+",OPE,Low
+"extremely curious, extremely analytical, extremely intelligent, extremely imaginative and extremely aesthetic
+",OPE,High
+"extremely unimaginative, extremely unintelligent, extremely socially conservative, extremely emotionally closed and extremely artistically unappreciative
+",OPE,Low
+"extremely imaginative, extremely intelligent, extremely socially progressive, extremely emotionally aware and extremely artistically appreciative
+",OPE,High
+"extremely unaesthetic, extremely socially conservative, extremely unanalytical, extremely emotionally closed and extremely unsophisticated
+",OPE,Low
+"extremely aesthetic, extremely socially progressive, extremely analytical, extremely emotionally aware and extremely sophisticated
+",OPE,High
+"extremely predictable, extremely uncreative, extremely artistically unappreciative, extremely unreflective and extremely uninquisitive
+",OPE,Low
+"extremely spontaneous, extremely creative, extremely artistically appreciative, extremely reflective and extremely curious
+",OPE,High
