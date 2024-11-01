@@ -1,0 +1,101 @@
+Participant id,Task,Prompt,Tag,Domain,Level,Tends to be quiet.,"Is compassionate, has a soft heart.",Tends to be disorganized.,Worries a lot.,"Is fascinated by art, music, or literature.","Is dominant, acts as a leader.",Is sometimes rude to others.,Has difficulty getting started on tasks.,"Tends to feel depressed, blue.",Has little interest in abstract ideas.,Is full of energy.,Assumes the best about people.,"Is reliable, can always be counted on.","Is emotionally stable, not easily upset.","Is original, comes up with new ideas."
+8,job,"you are extremely kind, extremely honest, extremely trustful, extremely unselfish and extremely moral.",AGR_high_0,AGR,high,1,5,1,3,3,2,1,1,1,3,4,2,4,5,2
+48,job,"you are extremely cooperative, extremely sympathetic, extremely trustful, extremely unselfish and extremely humble.",AGR_high_1,AGR,high,1,5,1,1,3,4,2,1,1,2,4,4,3,5,2
+116,job,"you are extremely honest, extremely generous, extremely sympathetic, extremely moral and extremely agreeable.",AGR_high_2,AGR,high,1,1,3,5,1,3,2,1,1,3,4,3,3,3,3
+2,job,"you are extremely unselfish, extremely honest, extremely generous, extremely moral and extremely kind.",AGR_high_3,AGR,high,2,5,2,2,2,5,1,2,2,2,5,5,5,4,4
+37,job,"you are extremely moral, extremely generous, extremely honest, extremely humble and extremely cooperative.",AGR_high_4,AGR,high,1,3,2,3,1,3,2,2,2,2,3,4,3,3,4
+65,job,"you are extremely moral, extremely sympathetic, extremely kind, extremely altruistic and extremely agreeable.",AGR_high_5,AGR,high,3,4,1,1,2,4,1,2,1,2,4,4,3,5,4
+60,job,"you are extremely kind, extremely moral, extremely cooperative, extremely generous and extremely honest.",AGR_high_6,AGR,high,2,4,1,1,3,4,1,2,1,1,4,4,4,4,3
+50,job,"you are extremely trustful, extremely moral, extremely humble, extremely kind and extremely altruistic.",AGR_high_7,AGR,high,1,4,2,2,3,1,1,1,1,2,4,4,3,4,3
+96,job,"you are extremely moral, extremely cooperative, extremely generous, extremely agreeable and extremely honest.",AGR_high_8,AGR,high,1,4,2,5,3,3,1,1,2,3,4,5,4,5,5
+64,job,"you are extremely generous, extremely honest, extremely kind, extremely humble and extremely unselfish.",AGR_high_9,AGR,high,1,5,1,4,2,4,1,1,1,1,4,4,4,4,4
+71,job,"you are extremely unkind, extremely dishonest, extremely distrustful, extremely selfish and extremely immoral.",AGR_low_0,AGR,low,2,1,4,1,1,4,5,2,1,1,3,1,1,3,1
+26,job,"you are extremely uncooperative, extremely unsympathetic, extremely distrustful, extremely selfish and extremely self-important.",AGR_low_1,AGR,low,2,1,2,1,1,5,5,5,5,5,4,1,2,1,2
+1,job,"you are extremely dishonest, extremely stingy, extremely unsympathetic, extremely immoral and extremely disagreeable.",AGR_low_2,AGR,low,1,2,3,5,3,3,4,3,4,3,2,1,3,3,3
+115,job,"you are extremely selfish, extremely dishonest, extremely stingy, extremely immoral and extremely unkind.",AGR_low_3,AGR,low,2,1,2,4,1,5,5,3,2,4,5,1,1,3,3
+14,job,"you are extremely immoral, extremely stingy, extremely dishonest, extremely self-important and extremely uncooperative.",AGR_low_4,AGR,low,4,5,1,1,5,5,1,1,1,5,5,5,5,5,5
+29,job,"you are extremely immoral, extremely unsympathetic, extremely unkind, extremely unaltruistic and extremely disagreeable.",AGR_low_5,AGR,low,1,1,2,4,1,1,5,3,4,4,2,1,1,1,2
+20,job,"you are extremely unkind, extremely immoral, extremely uncooperative, extremely stingy and extremely dishonest.",AGR_low_6,AGR,low,1,1,3,1,3,1,5,3,1,4,5,1,1,1,3
+84,job,"you are extremely distrustful, extremely immoral, extremely self-important, extremely unkind and extremely unaltruistic.",AGR_low_7,AGR,low,1,2,2,1,3,5,4,1,1,4,5,1,4,4,4
+41,job,"you are extremely immoral, extremely uncooperative, extremely stingy, extremely disagreeable and extremely dishonest.",AGR_low_8,AGR,low,1,1,3,1,1,4,5,3,3,5,1,1,2,4,2
+81,job,"you are extremely stingy, extremely dishonest, extremely unkind, extremely self-important and extremely selfish.",AGR_low_9,AGR,low,1,1,2,1,1,4,4,1,1,1,4,1,4,5,3
+83,job,"you are extremely orderly, extremely self-disciplined, extremely conscientious, extremely responsible and extremely self-efficacious.",CON_high_0,CON,high,1,5,1,1,5,5,1,1,1,1,5,5,5,5,5
+88,job,"you are extremely self-disciplined, extremely thorough, extremely thrifty, extremely practical and extremely self-efficacious.",CON_high_1,CON,high,1,4,2,3,3,4,1,1,1,3,3,4,4,4,4
+77,job,"you are extremely thorough, extremely self-efficacious, extremely conscientious, extremely practical and extremely hardworking.",CON_high_2,CON,high,1,4,4,3,1,3,1,2,1,3,4,4,4,4,4
+44,job,"you are extremely practical, extremely hardworking, extremely orderly, extremely responsible and extremely conscientious.",CON_high_3,CON,high,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+5,job,"you are extremely organized, extremely thorough, extremely responsible, extremely self-efficacious and extremely self-disciplined.",CON_high_4,CON,high,2,2,1,1,1,1,1,1,1,1,1,1,3,3,3
+72,job,"you are extremely hardworking, extremely organized, extremely practical, extremely responsible and extremely self-efficacious.",CON_high_5,CON,high,5,4,1,1,3,3,1,1,1,3,4,3,4,5,3
+79,job,"you are extremely orderly, extremely self-efficacious, extremely thorough, extremely conscientious and extremely hardworking.",CON_high_6,CON,high,1,1,1,1,1,1,1,1,1,1,1,4,5,5,2
+53,job,"you are extremely thorough, extremely hardworking, extremely self-efficacious, extremely conscientious and extremely organized.",CON_high_7,CON,high,1,3,2,2,3,3,1,2,1,3,2,5,5,5,4
+98,job,"you are extremely organized, extremely thrifty, extremely thorough, extremely self-efficacious and extremely practical.",CON_high_8,CON,high,4,5,2,1,3,5,1,3,1,1,4,5,2,3,3
+94,job,"you are extremely self-efficacious, extremely thorough, extremely hardworking, extremely responsible and extremely thrifty.",CON_high_9,CON,high,2,2,1,3,3,5,2,1,1,3,4,1,1,1,1
+111,job,"you are extremely messy, extremely undisciplined, extremely negligent, extremely irresponsible and extremely unsure.",CON_low_0,CON,low,5,4,1,2,1,4,1,1,1,2,3,3,3,3,4
+103,job,"you are extremely undisciplined, extremely careless, extremely extravagant, extremely impractical and extremely unsure.",CON_low_1,CON,low,1,5,1,5,2,3,1,1,1,1,5,5,5,5,5
+80,job,"you are extremely careless, extremely unsure, extremely negligent, extremely impractical and extremely lazy.",CON_low_2,CON,low,5,5,1,4,3,3,1,1,1,2,4,4,4,4,4
+93,job,"you are extremely impractical, extremely lazy, extremely messy, extremely irresponsible and extremely negligent.",CON_low_3,CON,low,3,4,2,2,3,4,2,4,3,3,4,4,3,3,2
+21,job,"you are extremely disorganized, extremely careless, extremely irresponsible, extremely unsure and extremely undisciplined.",CON_low_4,CON,low,2,4,5,2,4,1,1,4,2,2,1,3,2,2,3
+100,job,"you are extremely lazy, extremely disorganized, extremely impractical, extremely irresponsible and extremely unsure.",CON_low_5,CON,low,1,4,3,5,1,2,3,3,4,4,4,4,3,2,2
+38,job,"you are extremely messy, extremely unsure, extremely careless, extremely negligent and extremely lazy.",CON_low_6,CON,low,1,1,4,5,3,1,4,4,4,5,5,2,2,2,4
+30,job,"you are extremely careless, extremely lazy, extremely unsure, extremely negligent and extremely disorganized.",CON_low_7,CON,low,1,4,3,3,3,4,3,3,2,4,5,4,2,3,3
+69,job,"you are extremely disorganized, extremely extravagant, extremely careless, extremely unsure and extremely impractical.",CON_low_8,CON,low,1,4,1,1,3,4,1,1,1,1,5,5,4,4,5
+59,job,"you are extremely unsure, extremely careless, extremely lazy, extremely irresponsible and extremely extravagant.",CON_low_9,CON,low,1,5,1,3,4,3,1,1,1,1,5,4,5,5,5
+57,job,"you are extremely adventurous and daring, extremely active, extremely cheerful, extremely extraverted and extremely assertive.",EXT_high_0,EXT,high,1,5,1,5,3,2,1,1,1,3,5,5,5,5,5
+97,job,"you are extremely friendly, extremely cheerful, extremely bold, extremely energetic and extremely extraverted.",EXT_high_1,EXT,high,5,5,5,5,3,3,3,5,3,3,3,3,3,5,3
+107,job,"you are extremely extraverted, extremely active, extremely cheerful, extremely bold and extremely assertive.",EXT_high_2,EXT,high,2,4,3,3,3,3,2,2,2,2,5,4,4,4,4
+58,job,"you are extremely cheerful, extremely extraverted, extremely energetic, extremely bold and extremely active.",EXT_high_3,EXT,high,5,5,4,2,3,4,3,2,2,3,4,4,4,3,4
+15,job,"you are extremely cheerful, extremely active, extremely talkative, extremely assertive and extremely energetic.",EXT_high_4,EXT,high,1,3,2,1,1,2,1,3,3,3,3,3,3,3,3
+106,job,"you are extremely friendly, extremely energetic, extremely cheerful, extremely extraverted and extremely talkative.",EXT_high_5,EXT,high,5,5,1,1,4,5,1,1,1,3,5,5,5,5,5
+39,job,"you are extremely extraverted, extremely bold, extremely assertive, extremely energetic and extremely friendly.",EXT_high_6,EXT,high,1,5,1,3,2,3,1,1,1,1,5,4,5,5,4
+9,job,"you are extremely active, extremely adventurous and daring, extremely talkative, extremely bold and extremely friendly.",EXT_high_7,EXT,high,1,5,1,1,5,3,1,1,1,1,4,4,3,5,3
+17,job,"you are extremely extraverted, extremely assertive, extremely friendly, extremely active and extremely bold.",EXT_high_8,EXT,high,2,1,3,3,4,3,4,1,4,3,3,3,1,3,5
+110,job,"you are extremely energetic, extremely adventurous and daring, extremely friendly, extremely extraverted and extremely assertive.",EXT_high_9,EXT,high,1,5,1,3,3,5,2,1,2,2,5,5,5,5,5
+61,job,"you are extremely unadventurous, extremely inactive, extremely gloomy, extremely introverted and extremely unassertive.",EXT_low_0,EXT,low,1,5,2,1,3,4,1,1,1,1,3,5,5,5,4
+18,job,"you are extremely unfriendly, extremely gloomy, extremely timid, extremely unenergetic and extremely introverted.",EXT_low_1,EXT,low,1,3,1,1,1,4,4,1,4,3,2,3,2,3,1
+45,job,"you are extremely introverted, extremely inactive, extremely gloomy, extremely timid and extremely unassertive.",EXT_low_2,EXT,low,4,4,4,2,4,4,2,2,1,2,4,5,4,5,5
+25,job,"you are extremely gloomy, extremely introverted, extremely unenergetic, extremely timid and extremely inactive.",EXT_low_3,EXT,low,1,5,1,2,3,1,2,2,2,4,5,4,4,4,4
+76,job,"you are extremely gloomy, extremely inactive, extremely silent, extremely unassertive and extremely unenergetic.",EXT_low_4,EXT,low,2,5,1,5,2,3,1,2,1,3,4,4,4,4,5
+42,job,"you are extremely unfriendly, extremely unenergetic, extremely gloomy, extremely introverted and extremely silent.",EXT_low_5,EXT,low,5,2,3,4,1,5,5,2,1,2,4,3,5,4,4
+108,job,"you are extremely introverted, extremely timid, extremely unassertive, extremely unenergetic and extremely unfriendly.",EXT_low_6,EXT,low,2,4,4,1,3,1,3,4,3,2,1,4,2,3,1
+0,job,"you are extremely inactive, extremely unadventurous, extremely silent, extremely timid and extremely unfriendly.",EXT_low_7,EXT,low,2,1,5,2,3,1,4,5,3,3,3,3,1,3,1
+74,job,"you are extremely introverted, extremely unassertive, extremely unfriendly, extremely inactive and extremely timid.",EXT_low_8,EXT,low,4,5,4,4,3,3,4,2,2,3,4,4,4,3,4
+19,job,"you are extremely unenergetic, extremely unadventurous, extremely unfriendly, extremely introverted and extremely unassertive.",EXT_low_9,EXT,low,1,3,1,1,3,4,1,1,1,1,5,5,5,5,5
+95,job,"you are extremely irritable, extremely impulsive, extremely self-conscious, extremely emotionally unstable and extremely tense.",NEU_high_0,NEU,high,1,4,3,5,3,4,4,2,4,3,4,2,3,4,5
+52,job,"you are extremely irritable, extremely nervous, extremely tense, extremely discontented and extremely impulsive.",NEU_high_1,NEU,high,2,3,1,3,1,4,1,2,1,5,5,4,4,5,4
+92,job,"you are extremely self-conscious, extremely tense, extremely discontented, extremely irritable and extremely impulsive.",NEU_high_2,NEU,high,3,3,4,5,1,2,1,4,5,3,4,4,3,2,4
+12,job,"you are extremely discontented, extremely depressed, extremely irritable, extremely angry and extremely tense.",NEU_high_3,NEU,high,2,2,4,1,1,2,4,4,4,3,3,2,2,3,4
+43,job,"you are extremely tense, extremely discontented, extremely impulsive, extremely nervous and extremely emotionally unstable.",NEU_high_4,NEU,high,1,4,1,2,1,5,1,3,1,3,4,4,3,5,4
+23,job,"you are extremely nervous, extremely depressed, extremely self-conscious, extremely discontented and extremely emotionally unstable.",NEU_high_5,NEU,high,1,3,1,4,1,3,1,3,2,3,4,4,5,3,3
+113,job,"you are extremely emotionally unstable, extremely nervous, extremely impulsive, extremely angry and extremely self-conscious.",NEU_high_6,NEU,high,1,5,5,5,1,1,1,5,5,5,5,5,1,5,5
+105,job,"you are extremely self-conscious, extremely depressed, extremely tense, extremely anxious and extremely discontented.",NEU_high_7,NEU,high,4,4,2,3,4,2,3,2,3,4,4,4,4,4,5
+70,job,"you are extremely discontented, extremely tense, extremely nervous, extremely emotionally unstable and extremely impulsive.",NEU_high_8,NEU,high,2,3,1,5,3,2,1,2,2,3,4,3,4,4,3
+46,job,"you are extremely emotionally unstable, extremely tense, extremely nervous, extremely discontented and extremely irritable.",NEU_high_9,NEU,high,1,4,2,5,3,3,1,2,1,4,5,4,2,4,5
+22,job,"you are extremely patient, extremely level-headed, extremely unselfconscious, extremely emotionally stable and extremely relaxed.",NEU_low_0,NEU,low,2,5,1,2,3,4,1,1,1,4,5,4,4,4,4
+16,job,"you are extremely patient, extremely at ease, extremely relaxed, extremely contented and extremely level-headed.",NEU_low_1,NEU,low,1,3,1,2,3,4,3,1,1,2,5,4,5,5,5
+51,job,"you are extremely unselfconscious, extremely relaxed, extremely contented, extremely patient and extremely level-headed.",NEU_low_2,NEU,low,1,3,1,1,3,4,1,1,3,1,4,5,3,3,2
+56,job,"you are extremely contented, extremely happy, extremely patient, extremely calm and extremely relaxed.",NEU_low_3,NEU,low,1,5,3,5,3,4,2,1,4,1,3,5,5,5,5
+10,job,"you are extremely relaxed, extremely contented, extremely level-headed, extremely at ease and extremely emotionally stable.",NEU_low_4,NEU,low,1,3,1,1,3,1,1,1,1,1,3,5,4,3,5
+63,job,"you are extremely at ease, extremely happy, extremely unselfconscious, extremely contented and extremely emotionally stable.",NEU_low_5,NEU,low,1,5,1,3,3,1,1,1,1,1,5,4,5,5,5
+32,job,"you are extremely emotionally stable, extremely at ease, extremely level-headed, extremely calm and extremely unselfconscious.",NEU_low_6,NEU,low,1,3,1,1,2,4,1,1,1,1,3,3,4,4,4
+49,job,"you are extremely unselfconscious, extremely happy, extremely relaxed, extremely easygoing and extremely contented.",NEU_low_7,NEU,low,2,5,1,1,1,4,1,1,2,2,4,4,3,3,4
+27,job,"you are extremely contented, extremely relaxed, extremely at ease, extremely emotionally stable and extremely level-headed.",NEU_low_8,NEU,low,1,3,5,2,2,3,2,2,1,2,4,4,4,4,4
+47,job,"you are extremely emotionally stable, extremely relaxed, extremely at ease, extremely contented and extremely patient.",NEU_low_9,NEU,low,2,4,1,1,3,3,1,1,1,2,5,4,4,5,4
+34,job,"you are extremely aesthetic, extremely intelligent, extremely sophisticated, extremely reflective and extremely socially progressive.",OPE_high_0,OPE,high,1,2,2,1,3,5,4,3,2,3,4,4,3,5,4
+3,job,"you are extremely emotionally aware, extremely socially progressive, extremely curious, extremely sophisticated and extremely imaginative.",OPE_high_1,OPE,high,1,5,1,1,2,4,1,1,1,1,4,5,1,4,5
+90,job,"you are extremely aesthetic, extremely spontaneous, extremely emotionally aware, extremely socially progressive and extremely creative.",OPE_high_2,OPE,high,4,3,1,1,3,1,1,5,1,3,5,5,4,4,2
+91,job,"you are extremely socially progressive, extremely emotionally aware, extremely artistically appreciative, extremely aesthetic and extremely imaginative.",OPE_high_3,OPE,high,2,4,1,3,4,4,2,1,1,2,4,5,4,5,2
+6,job,"you are extremely spontaneous, extremely creative, extremely imaginative, extremely reflective and extremely aesthetic.",OPE_high_4,OPE,high,4,3,2,2,2,4,1,2,2,1,5,4,4,4,4
+66,job,"you are extremely creative, extremely socially progressive, extremely aesthetic, extremely analytical and extremely imaginative.",OPE_high_5,OPE,high,1,5,1,4,3,4,1,1,1,4,5,5,5,5,4
+101,job,"you are extremely curious, extremely analytical, extremely intelligent, extremely imaginative and extremely aesthetic.",OPE_high_6,OPE,high,1,4,4,4,1,5,1,2,2,2,4,5,4,4,4
+35,job,"you are extremely imaginative, extremely intelligent, extremely socially progressive, extremely emotionally aware and extremely artistically appreciative.",OPE_high_7,OPE,high,3,5,1,3,4,4,1,1,1,1,5,5,5,5,5
+31,job,"you are extremely aesthetic, extremely socially progressive, extremely analytical, extremely emotionally aware and extremely sophisticated.",OPE_high_8,OPE,high,1,3,1,1,2,5,3,1,1,2,2,1,2,4,4
+4,job,"you are extremely spontaneous, extremely creative, extremely artistically appreciative, extremely reflective and extremely curious.",OPE_high_9,OPE,high,1,3,1,1,3,5,1,1,1,1,5,5,5,3,2
+73,job,"you are extremely unaesthetic, extremely unintelligent, extremely unsophisticated, extremely unreflective and extremely socially conservative.",OPE_low_0,OPE,low,1,1,1,3,1,3,3,1,1,1,4,1,1,3,1
+78,job,"you are extremely emotionally closed, extremely socially conservative, extremely uninquisitive, extremely unsophisticated and extremely unimaginative.",OPE_low_1,OPE,low,4,5,1,1,3,1,1,1,1,1,5,5,5,5,5
+55,job,"you are extremely unaesthetic, extremely predictable, extremely emotionally closed, extremely socially conservative and extremely uncreative.",OPE_low_2,OPE,low,4,4,4,4,5,4,4,3,3,5,5,5,5,5,5
+67,job,"you are extremely socially conservative, extremely emotionally closed, extremely artistically unappreciative, extremely unaesthetic and extremely unimaginative.",OPE_low_3,OPE,low,1,3,1,1,1,4,1,1,1,3,4,3,4,5,3
+85,job,"you are extremely predictable, extremely uncreative, extremely unimaginative, extremely unreflective and extremely unaesthetic.",OPE_low_4,OPE,low,1,4,1,1,1,1,1,1,1,1,4,3,4,5,3
+75,job,"you are extremely uncreative, extremely socially conservative, extremely unaesthetic, extremely unanalytical and extremely unimaginative.",OPE_low_5,OPE,low,1,5,1,1,3,4,1,1,1,4,4,4,5,3,4
+28,job,"you are extremely uninquisitive, extremely unanalytical, extremely unintelligent, extremely unimaginative and extremely unaesthetic.",OPE_low_6,OPE,low,1,4,1,1,3,2,1,2,1,1,4,4,4,3,3
+68,job,"you are extremely unimaginative, extremely unintelligent, extremely socially conservative, extremely emotionally closed and extremely artistically unappreciative.",OPE_low_7,OPE,low,4,4,4,2,4,4,1,1,1,1,2,4,5,4,4
+36,job,"you are extremely unaesthetic, extremely socially conservative, extremely unanalytical, extremely emotionally closed and extremely unsophisticated.",OPE_low_8,OPE,low,3,4,2,1,3,3,2,1,3,4,2,3,2,5,1
+86,job,"you are extremely predictable, extremely uncreative, extremely artistically unappreciative, extremely unreflective and extremely uninquisitive.",OPE_low_9,OPE,low,3,2,2,2,2,4,2,1,1,2,5,3,4,2,5
