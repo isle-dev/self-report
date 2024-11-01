@@ -2,7 +2,7 @@
 This repository contains codes that generate prompts instructing GPT to respond to psychological tests such as BFI-XS, BFI-2 and IPIP-120 when adopting different personalities and roles to perform certain tasks.
 
 ### Usage
-Run the main script self-report.py to simulate the corresponding personalities and answer the questionnaire. The results will be stored in ./output directory.
+Run the main script self-report.py to simulate the corresponding personalities and answer the questionnaire. The results will be stored in ./output directory. The collected transcripts of human-chatbot conversations and corresponding evaluation scores are available in the ./human_study directory.
 
 ### Arguments
 You can customize the behavior of the main.py script by modifying the command-line arguments:
